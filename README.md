@@ -47,10 +47,8 @@ Based on the Q-values, the agent chooses to move:
 pip install -r requirements.txt
 
 
-**2. Watch the trained AI play (Inference Mode):
-```bash
+2. Watch the trained AI play (Inference Mode):
 python play.py
 
-**3. Train a new model from scratch:
-```bash
+3. Train a new model from scratch:
 python train.py
